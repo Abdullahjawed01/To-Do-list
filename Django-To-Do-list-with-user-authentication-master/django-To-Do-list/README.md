@@ -1,2 +1,0 @@
-# django-To-Do-list
- 
